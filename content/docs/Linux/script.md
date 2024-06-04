@@ -1,6 +1,6 @@
 ---
-title: Scripting
-linkTitle: Scripting
+title: 2. Scripting
+linkTitle: 2. Scripting
 ---
 ## Linux Shell Scripting
 ### Overview

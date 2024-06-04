@@ -1,6 +1,6 @@
 ---
-title: Permissions and Security
-linkTitle: Permissions and Security
+title: 5. Permissions and Security
+linkTitle: 5. Permissions and Security
 ---
 
 # Linux Permissions and Security

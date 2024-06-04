@@ -1,6 +1,6 @@
 ---
-title: Introduction to Sony Spresense
-linkTitle: Introduction to Sony Spresense
+title: 1. Introduction to Sony Spresense
+linkTitle: 1. Introduction to Sony Spresense
 ---
 # Introduction to Sony Spresense
 

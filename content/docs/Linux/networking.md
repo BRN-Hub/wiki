@@ -1,6 +1,6 @@
 ---
-title: Networking
-linkTitle: Networking
+title: 4. Networking
+linkTitle: 4. Networking
 ---
 # Networking in Linux
 

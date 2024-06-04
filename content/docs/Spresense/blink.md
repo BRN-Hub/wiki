@@ -1,6 +1,6 @@
 ---
-title: Blinking an LED
-linkTitle: Blinking an LED
+title: 3. Blinking an LED
+linkTitle: 3. Blinking an LED
 ---
 # Blinking an LED
 

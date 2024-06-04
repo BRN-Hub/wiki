@@ -1,6 +1,6 @@
 ---
-title: Working with Sensors
-linkTitle: Working with Sensors
+title: 4. Working with Sensors
+linkTitle: 4. Working with Sensors
 ---
 # Working with Sensors
 
