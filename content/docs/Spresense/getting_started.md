@@ -1,6 +1,6 @@
 ---
-title: Getting Started
-linkTitle: Getting Started
+title: 2. Getting Started
+linkTitle: 2. Getting Started
 ---
 # Getting Started with Sony Spresense
 

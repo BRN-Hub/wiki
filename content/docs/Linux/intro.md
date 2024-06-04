@@ -1,6 +1,6 @@
 ---
-title: Basic Commands
-linkTitle: Basic
+title: 1. Basic Commands
+linkTitle: 1. Basic
 ---
 ## Introduction to Linux
 ### Overview
