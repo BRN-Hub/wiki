@@ -86,9 +86,7 @@ fi
 #### Loops
 Loops allow you to execute a series of commands multiple times.
 - for loop:
-	```
-
-bash
+```
 Copy code
 #!/bin/bash
 for i in {1..5}; do
@@ -97,9 +95,7 @@ done
 
 ```
 - while loop:
-	```
-
-bash
+```
 Copy code
 #!/bin/bash
 COUNTER=0
